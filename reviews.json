@@ -1,0 +1,442 @@
+{
+  "business": "Toastea",
+  "address": "165 Morrison St, Edinburgh EH3 8AG",
+  "overall_rating": "5.0",
+  "total_reviews": 56,
+  "collected_date": "2026-06-09",
+  "reviews": [
+    {
+      "reviewer": "Dennis Hodgkins",
+      "rating": "5 stars",
+      "date": "a month ago",
+      "review_text": "Great little place, good food and drinks, love the china tea pots and cups, brilliant staff.  Its not fancy, its cosy, its great value with great service.",
+      "photos": []
+    },
+    {
+      "reviewer": "Melody Ward",
+      "rating": "5 stars",
+      "date": "18 hours ago",
+      "review_text": "Fantastic service and cute atmosphere! Room for a small breakfast or brunch. The baked goods are phenomenal!",
+      "photos": []
+    },
+    {
+      "reviewer": "JoAnn Ballor",
+      "rating": "5 stars",
+      "date": "3 days ago",
+      "review_text": "I ordered a mocha and the New Yorker toasty,  both were incredible. The mocha was one of the best I’ve had in Edinburgh and the toasty was a perfect blend of cheese and pastrami. I highly recommend stopping for breakfast or lunch!",
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/ANxoTn3yqa0VhNtgcwhHp2VbdD6yG689ABPATw17PE7sYDJ64cDnxTnz1_0zj7PP2rdLHn5UWhnPu6Id8MJ71vn39_q2agiZi-ZeqNm5_OT-SgOo-YoGo4K7IZDSCnb3k4w9nxPHvlvCoT_9zQo=w800-h800-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ANxoTn2aPSSVZsf6HbLErrdAqZPzBL0v_jCtDeDZ99AZVIFu-gejIuHM3QUhcH__0XnZ4D6a82LPGFe9cG43WOwDx1cct6bbpHKLahxBizCUHfCNzlDqXYAMH4pWQ5ABiEHjshSbBEiJuQWFu0cp=w800-h800-p-k-no"
+      ]
+    },
+    {
+      "reviewer": "Areli Alejandra Sevilla Gallardo",
+      "rating": "5 stars",
+      "date": "4 days ago",
+      "review_text": "Coffee and muffins were delicious.\nThe service was super friendly, and they even give you recommendations on things to do in Edinburgh, and they made us feel like family. …",
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/ANxoTn0aOHZh5nj_k_RHCyaTMoI6gVm22SqPxun9D_rArnt_foijQJGuy8Ph4pRvMdkyBX8Fq9-FvfWxns1QNkrCkcm1xBODLdT-M-UENkndOWx0GMk5z91X1_WEYj4PfyEfX4BpcyU8PqbEjyCb=w800-h800-p-k-no"
+      ]
+    },
+    {
+      "reviewer": "Quiet Banker",
+      "rating": "5 stars",
+      "date": "a week ago",
+      "review_text": "Found this place whilst out for an errand. Lovely small shop, terrific food, hot teas, friendly staff. Great spot, highly recommended.",
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/ANxoTn18tORisCmha24deK2Su78wBmI9ayiIBMdGdsbELZk-L8EusYD9dBrEgbuv4uk4kCZtKihqVsMkwMvI-ifF_6kMZ6pCAyAsD_p_UutG1SBgRvQvVYkvEAkPA83gAF5cO2epUjN0iT1Dpw3i=w800-h800-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ANxoTn15oLwkC6kqCbItc6uvn833BHPgKQb0lHRJV9mThXeJHVhnRijqyItbBIALmrjM-vMJGE7AImIDDSmHk51I-lUW-pNSx9r0KEnjtKsvQz2geNMSiX5MD872JyZov6YaZMkh1MGZOsOKecTc=w800-h800-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ANxoTn1Iuo2iZxIqmk1JVI7SE_3H_tUZw5mG5QS6At5BMrG-uP0FTyuJrH3j05ldzvu5cIuPxPbM-CrQoHwgn80PW8WfwhaWiMI02kzIEVkzN6SWM3KbsBqSYDdlj365ZX1zDp_jPZ4Mz78gncJb=w800-h800-p-k-no"
+      ]
+    },
+    {
+      "reviewer": "Mikkel Nørgaard",
+      "rating": "5 stars",
+      "date": "a week ago",
+      "review_text": "Really nice place, the toasts was nice and the service was great!",
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/ANxoTn2PZRpHPYXVRmmGVmBmP9Qojxe1Hvs_ZPdZWEgiTuuvJOwEAqQC64g9Za0nVFbshOCEtTBQf253Ic9Ft7Rk0h5kxl_yBr_uCTtLiEVRTNXIvB17IcZbbttravfsI4wqDTm3iBaAdbtUyAcA=w800-h800-p-k-no"
+      ]
+    },
+    {
+      "reviewer": "Ezgi Bozdogan",
+      "rating": "5 stars",
+      "date": "a week ago",
+      "review_text": "We tried New York and Istanbul toasties, super delicious! A gem found in Edinburgh!",
+      "photos": []
+    },
+    {
+      "reviewer": "Esra Ozkan",
+      "rating": "5 stars",
+      "date": "a week ago",
+      "review_text": "Surprise spot on our way to the city center where we had delicious toasties!! Very friendly staff, clean and cosy shop. Felt very welcomed, definitely would love to come back on our next trip to Edinburgh. Highly recommend!! Thanks again!",
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/ANxoTn3Nvcvrp659fK4R_GCsGz86KtGr3z2WnOu4fwwzz8stlfaq8glBMO8pePVk206MG6-sXtlTEle4J2x54nUSZDTAUDsaRoJb5YhWh5PLQO9Ocxf0nXjTfRq9gHttSpKRlc82b3oxMi0qKclU=w800-h800-p-k-no"
+      ]
+    },
+    {
+      "reviewer": "42 Trafalgar House",
+      "rating": "5 stars",
+      "date": "a week ago",
+      "review_text": "All toasteas are amazing, friendly staff. I highly recommend",
+      "photos": []
+    },
+    {
+      "reviewer": "Grace Brindley",
+      "rating": "5 stars",
+      "date": "a week ago",
+      "review_text": "Amazing toasties and such friendly staff, we live in the area and love coming here for lunch. The extra pickles on the side really top it all off 🩷 …",
+      "photos": []
+    },
+    {
+      "reviewer": "Tom Kaijaks",
+      "rating": "5 stars",
+      "date": "a week ago",
+      "review_text": "Had the Athens toastie, was amazing! Will definitely be coming again",
+      "photos": []
+    },
+    {
+      "reviewer": "Ida Wong",
+      "rating": "5 stars",
+      "date": "2 weeks ago",
+      "review_text": "The food was good.  You can really taste the difference from those chain. People are friendly and welcoming.  I love the details of the cafe deco.",
+      "photos": []
+    },
+    {
+      "reviewer": "Kortney Gross",
+      "rating": "5 stars",
+      "date": "2 weeks ago",
+      "review_text": "Delish sweets and drinks!",
+      "photos": []
+    },
+    {
+      "reviewer": "Lawrence Khoury",
+      "rating": "5 stars",
+      "date": "3 weeks ago",
+      "review_text": "Our hotel was in the area and we spotted this place walking by one day and decided to give it a try. Staff were super friendly and the restaurant is a really quirky decor. Our coffees were well-made and the Paris sandwich was delicious. Highly recommended.",
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/ANxoTn2RFmzHIPdr7ITtSkYBxStEkozkMBtlyR_vSP15pMVlrANMz5vcyIaEfDWeoFFp6W7OFbP7LKoPOTlOSbvZPKp91ff6F3ZcVZdxyLkoAFgqnSuk_sKDckIO5CEIijmmzRCH1xhx7F-i90Q4=w800-h800-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ANxoTn3lqO57ev2I_VgQd_cUgVEP2Z0upQvgVdIqc8IWr1jeCnoct2a8RkfpbBugBpFmdV8Okz7KYlshMTn7dFQc3xUxHBtQeGXngCYQyPmzaGQo62wby1uM5AyUPtQkUEqdTOWEE_8h2aJI7Js=w800-h800-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ANxoTn3rHldbiWEDt4n4wK3SL4ZrTX4bKfLu6VPGiJ0kJ6vAI7LJxNpB1b0OWLZjf0-TAvbn_er-v2rezFZ3qKwazfTrqZTGFgid6GQFzjzSFYpOpBwN1QMLKNGlH4DGGkeTgDTZpC629jZvC3b2=w800-h800-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ANxoTn1CqOhLH0H0L0nBMOTiTz-45hL6QGdtWNiF4QWQZdjO390LMF2jnokFkwdOxLATQKAZ-tieg-uIw8slbCwRM6kY7Q1MI8VH4pTg8zPrwUqKKuzw6kx6XI6g3XavO9I2PEgkIXHbMllJ8dsc=w800-h800-p-k-no"
+      ]
+    },
+    {
+      "reviewer": "Sophie Revesz",
+      "rating": "5 stars",
+      "date": "a month ago",
+      "review_text": "Had a lovely lunch here - great selection of toasties (all very cheesy!), coffees and smoothies. Friendly service. I’ll be back!",
+      "photos": []
+    },
+    {
+      "reviewer": "Ridhaan Gupta",
+      "rating": "5 stars",
+      "date": "a month ago",
+      "review_text": "Nice staff and cute cafe",
+      "photos": []
+    },
+    {
+      "reviewer": "Daniela Koren",
+      "rating": "5 stars",
+      "date": "a month ago",
+      "review_text": "Such a nice little spot, totally authentical Edinburgh. I had an Edinburgh-toast and a small dessert. Great food, very friendly people - highly recommended!",
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/ANxoTn094WJyEecmYTe2ONC_ohwBiPkf_Fpq5t8kUTCWcbV7gCletcI3lz3UBrVk7w61ZqMmDZ1czDmokjHh4LBxjION8f2OpGaODIrNg5E40XJdV-2nFba6jUC9wdSVHzMNwfSCFbYFtZ0mDko=w800-h800-p-k-no"
+      ]
+    },
+    {
+      "reviewer": "Esra Hayal",
+      "rating": "5 stars",
+      "date": "a month ago",
+      "review_text": "Tucked along Morrison Street in Edinburgh, this small, cozy cafe is an absolute gem. The atmosphere is warm and inviting, perfect for a relaxed break from the city’s bustle. Their toasties are freshly made and seriously delicious; crispy on …",
+      "photos": []
+    },
+    {
+      "reviewer": "J",
+      "rating": "5 stars",
+      "date": "a month ago",
+      "review_text": "Stopped in here by accident, we were too early for a meeting up the road and this was the next place we saw. What a lovely little find it was. …",
+      "photos": []
+    },
+    {
+      "reviewer": "Lien Winters",
+      "rating": "4 stars",
+      "date": "a month ago",
+      "review_text": "Lovely staff. They were very kind. We had a great lunch.",
+      "photos": []
+    },
+    {
+      "reviewer": "Chloe Danielle",
+      "rating": "5 stars",
+      "date": "a month ago",
+      "review_text": "Lovely cosy cafe we stumbled across with very attentive & kind staff. Toastie was one of the best I’ve ever had! We will be back!",
+      "photos": []
+    },
+    {
+      "reviewer": "Em",
+      "rating": "5 stars",
+      "date": "a month ago",
+      "review_text": "Yummy haggis and cheesy toastie! Also had the best green smoothie with freshly grated ginger! The owner is so kind!",
+      "photos": []
+    },
+    {
+      "reviewer": "Claire Donnelly",
+      "rating": "5 stars",
+      "date": "a month ago",
+      "review_text": "Fantastic toasties and very friendly staff :)",
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/ANxoTn3ASKLvrpm0CoY-lTUfINh2hngVZJOVjK4QuOCbY9n6YSKpQLIXGgicpaarPmgJLleAsrAd_XqwHwDIeKnK0WjNGx6itG5qrAr0mKhG3Gcfdrcwbfsdkxilgtg5JHizb6DmzlGnzebCwLg=w800-h800-p-k-no"
+      ]
+    },
+    {
+      "reviewer": "Şervan Akman",
+      "rating": "5 stars",
+      "date": "Edited a month ago",
+      "review_text": "Amazing atmosphere beautiful food",
+      "photos": []
+    },
+    {
+      "reviewer": "Chrysalis Jacqueline Hind",
+      "rating": "5 stars",
+      "date": "a month ago",
+      "review_text": "Go there omg it's delightful, my wife and I Loved the place the food was so good, great service and the atmosphere? Perfect anytime.",
+      "photos": []
+    },
+    {
+      "reviewer": "Phoebe Weir",
+      "rating": "5 stars",
+      "date": "a month ago",
+      "review_text": "Amazing toasties with lots of choices! Visited with my family of 6 people and we all had different toasties and they were all amazing. Staff were so friendly. Would highly recommend for breakfast and lunch 😊 …",
+      "photos": []
+    },
+    {
+      "reviewer": "Mark Gee",
+      "rating": "5 stars",
+      "date": "a month ago",
+      "review_text": "Went in here with my Wife and had the New Yorker toastie which was fantastic. It was also my birthday and the staff played music and wished me a happy birthday with a little cake. ☺️ Made my day ☺️",
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/ANxoTn3TLd7vAL6T_ERyVsoRM6j3yUT03Y_XyKjPWWm_TsddoYhUPCGnHO4Rtj5egop-T2bALP-0RaylIlEZQzNQftb3nIYORaiQ8lPSqf7X-7oftikbuAQux51vNqzx288CjMRcuvikM6DOJ30x=w800-h800-p-k-no"
+      ]
+    },
+    {
+      "reviewer": "Omer Amin",
+      "rating": "5 stars",
+      "date": "a month ago",
+      "review_text": "I had a wonderful experience at Toastea ☕️\nThe service was excellent — friendly, attentive, and very welcoming from the moment I arrived 👌 …",
+      "photos": []
+    },
+    {
+      "reviewer": "Giacomo Rosapepe",
+      "rating": "5 stars",
+      "date": "a month ago",
+      "review_text": "I had a very nice breakfast here with my family. The butter croissant is delicious, and even the toast is fresh and well-portioned. The service is also very kind. I would definitely recommend it.",
+      "photos": []
+    },
+    {
+      "reviewer": "Jessica Rogers",
+      "rating": "5 stars",
+      "date": "2 months ago",
+      "review_text": "Beautiful little cafe with incredibly lovely staff. Had great chats with the owner, couldn’t be lovelier! Baked treats were amazing ✨",
+      "photos": []
+    },
+    {
+      "reviewer": "Deniz Öncel",
+      "rating": "5 stars",
+      "date": "2 months ago",
+      "review_text": "Lovely place with amazing staff! The toasts are absolutely delicious, and the drinks are very tasty. They also have a great bakery selection. Last but not least, the music is just perfect! Such a cozy and enjoyable atmosphere. Thank you Toastea, will definitely be back!",
+      "photos": []
+    },
+    {
+      "reviewer": "Alyssa Mascoe",
+      "rating": "5 stars",
+      "date": "2 months ago",
+      "review_text": "Wow! This place is amazing very friendly staff and the best sandwich and muffins ever. I ordered the chai tea and the Athens sandwich absolutely amaaaazing! Tried a blueberry muffin as well and it was so moist and fresh I loved it! Wish we had this back in America! Thank you so much!",
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/ANxoTn1sA7V0uxt5r_8zIGjL8RwxQwtVfW_TUYfw2Gj2l0dsu11PETRAxpUGpzqyStMgH6X9Hg8XvwJd-5pAzyYFbRwCxiJoFCempxhQ9qC3wUhcVYf68QwElTuI6r784ac2tNub6dg13G3lvakI=w800-h800-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ANxoTn1RYfkdDl1jiTS2ZnkZnaP8XKVGpUD9OCieaK28u78WoQo-8VpRc4mqh03U2vdwyxFP2RTTi-L8h00nhmTKatQDfckFKt0lUnwtAoH2mLO-T-i8sMo3T-0KZFtim-GQWgDsZaRNgrnJ0VLj=w800-h800-p-k-no"
+      ]
+    },
+    {
+      "reviewer": "Robert Brown",
+      "rating": "5 stars",
+      "date": "2 months ago",
+      "review_text": "Super cute, great service, delicious food",
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/ANxoTn2zsalgMrX94JWvVmgekJ5-pyBNcYGxzCkEhr7AP_RTnS42qH3SVDlOgCBcp8-zJ-aExfXfK6HvT9Jg6DPPwL9fFipBdFR9RCtz0-bXc0DaDFmskPkvHO5gkQwcfz9gged1Y20P4ExaV3l6=w800-h800-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ANxoTn0LGY_Ar4s_8BCc89CA7SHTWwo09AdPj_vDQBRmfMshEKxhxQ2d3xZYbc9eC64PLhdd16HHmTICtwCfmrcyEmE2cgVYvgERtVhaYMe9pJmWmKCoWeLZGXsDjLznxRaCNgpO_fB76vo4mNo=w800-h800-p-k-no"
+      ]
+    },
+    {
+      "reviewer": "Albert Gil Gil",
+      "rating": "5 stars",
+      "date": "2 months ago",
+      "review_text": "I had an incredible creamy chai latte and the workers were amazingly sweet!",
+      "photos": []
+    },
+    {
+      "reviewer": "Becky Robertson",
+      "rating": "5 stars",
+      "date": "2 months ago",
+      "review_text": "Visited this cafe a few times now and it did not disappoint. Very good location, clean cafe and really friendly staff. I recommend the New Yorker toastie and Iced Chai Latte! They have lots of baked goods and cakes to choose from too.",
+      "photos": []
+    },
+    {
+      "reviewer": "Edgar Bleykh",
+      "rating": "5 stars",
+      "date": "2 months ago",
+      "review_text": "It was our first cafe in Edinburgh. We wanted to grab something after long flights, and it was absolutely perfect spot. We took two toasts (London and Edinburgh). It was delicious. Total recommend❤️",
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/ANxoTn2mbJWG0gFVeMM0fz9EuWnGG1Feofg5NrTMUDRKdpDcj3mrI7bGo-RojmUDxmV7DC3inrX8R2kRnuBKiMfN0LSneaiEboO5DDySNNC4yhnEPoq1BUguusanNZOrksuKI1-xLx272pwujYk=w800-h800-p-k-no"
+      ]
+    },
+    {
+      "reviewer": "Tanya Progackaya",
+      "rating": "5 stars",
+      "date": "2 months ago",
+      "review_text": "A lovely little place with delicious food and warm, welcoming staff 💫 Definitely worth a visit for tea and a sandwich! …",
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/ANxoTn1bQmhnnozQnDD42iCwRwgWmnPApxgamkUKpC0vBgMZ6OBJyZotshaLIG9WnDjXHKTYYuaoJ1Ol37a2AuabgeVaZljkBjQoaycMgKHDfgJ1afZDpp8JdMtpkcbp-Pdr6TggKrCoR4V469Yv=w800-h800-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ANxoTn3Svli4LhoFhvz7ljflgyWQsDC_eccA4u_txLQgOeqiXEmQqO0RXNhnuPVvOLszdABve74xmqWNXgjHy6WqiOYoSl3V5w0B7-H6ijhLe_Fa5YDuhZBq9CpjSpja8wF3PbSB1ZQacizBF-UV=w800-h800-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ANxoTn2lgg7iE44DdroYostjGXOmkJNjYdq3iezRs1DjqVJTEi1Xmg9aDDJ0CJbyc6QuYrq1ds-ZVpWdFhF23XMA-IM84trVkTrL6jRUdFNAtRqDF7bMWPOmo3L41Okka7rbVwI8zYcAR3qxreZK=w800-h800-p-k-no"
+      ]
+    },
+    {
+      "reviewer": "Gillian Winiarski",
+      "rating": "5 stars",
+      "date": "2 months ago",
+      "review_text": "What a lovely little cafe, the ladies were very welcoming and friendly, they let me try a small bowl of their exceptional Chicken and Veg soup while I waited for my toastie which was also really tasty, loved the crisps and pickle on the side and the French Vanilla Latte 😋 will definitely be back ❤️ …",
+      "photos": []
+    },
+    {
+      "reviewer": "Ismail Elelci",
+      "rating": "5 stars",
+      "date": "2 months ago",
+      "review_text": "⭐️⭐️⭐️⭐️⭐️\n\nA true hidden gem in Edinburgh! Toastea has such a unique concept — “Toasts of …",
+      "photos": []
+    },
+    {
+      "reviewer": "Ikra Cesmeliler",
+      "rating": "5 stars",
+      "date": "2 months ago",
+      "review_text": "I tried the New York Toastie and I really loved it❤️\nOne of the staff members recommended it to me and it was a very good suggestion. It was one of the best food experiences I had. The taste was amazing and the recipe was perfect. The service was also very good. I will definitely come back again.",
+      "photos": []
+    },
+    {
+      "reviewer": "Sara Kreibaum",
+      "rating": "5 stars",
+      "date": "2 months ago",
+      "review_text": "We had a Shortbread cookie and a brookie and both were really delicious. We don’t know how they make this shortbread soooo good, but it definitely is amazing :)",
+      "photos": []
+    },
+    {
+      "reviewer": "gamze oskay",
+      "rating": "5 stars",
+      "date": "2 months ago",
+      "review_text": "The toast and tea were absolutely delicious, made with really great ingredients, such a lovely, sweet atmosphere. Really enjoyed it.",
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/ANxoTn20ogPKdONOnaoBpcnzbtKpB7gnZAYoyPZvLVWk93LNbe7HzNZ8L80aMTRjbZUnGTAWMp1SH4rztWGGkFWaGMauOwkPZ6FtMuIeKjlfRddS7RnyDGOG2tHDV5-Wi3-EEM9RfZr0tSQ7zxlL=w800-h800-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ANxoTn358nMupNf0DjkG8dvJFCLBi10OMmu3CUzBgcB6qt2Zwp0C-EsTJ6W9qr0L78mh0C-HJIOin4-y64QrRz_D6d5MAyq2SRIsFjk6shBthCMjJBH5ECFfyguZDmZ6bhtoLniTaDnVko4m1iCb=w800-h800-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ANxoTn3nFGB7stqC1ToEWjPBHQatZjjcbxoq-2qdBaHbyl8IoxTJlxEIiM0sLZUcZB97dUjH7nnCnhfCy3OiDlVWhhnx4X9bEIdJWSelMt-CGbyQpm895YIOkDBbmWRXzvtg5lkKddzL6Uwj2EI=w800-h800-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ANxoTn1eo7Te-OwU2QDJtkXlSeQLl71Dk_zh6BNJVJovWNP2xpA7Oe62nJMI1QnVVUZW2RJEcIJYQCPGQUVUxmFSI6Nl0a4kqoCGRjbyRJQzL0VWiF4JLYIH5fVj1SSdaojHBNovLsn-RjYAX1ID=w800-h800-p-k-no"
+      ]
+    },
+    {
+      "reviewer": "Teznur Cay",
+      "rating": "5 stars",
+      "date": "2 months ago",
+      "review_text": "Amazing atmosfer with delicious food and friendly service ❤️",
+      "photos": []
+    },
+    {
+      "reviewer": "evin opan",
+      "rating": "5 stars",
+      "date": "2 months ago",
+      "review_text": "Delicious food and very healthy! Warm and friendly staff 🥰💗 …",
+      "photos": []
+    },
+    {
+      "reviewer": "Mehmet Akman",
+      "rating": "5 stars",
+      "date": "2 months ago",
+      "review_text": "Best toast I ever had newyorker. Worth to try",
+      "photos": []
+    },
+    {
+      "reviewer": "ronay eroglu",
+      "rating": "5 stars",
+      "date": "2 months ago",
+      "review_text": "5 star rating for this amazing cafe . The food, bakery and drinks are absolutely delicious . I had such an enjoyable experience here . I recommend this cafe to everyone",
+      "photos": []
+    },
+    {
+      "reviewer": "Ina Nowak",
+      "rating": "5 stars",
+      "date": "2 months ago",
+      "review_text": "Delicious toasties! Cheerful and friendly service. This lovingly decorated shop is a great place to linger. I'm already looking forward to a Frankfurt toastie on my next visit 😜. …",
+      "photos": []
+    },
+    {
+      "reviewer": "Aayat Shaikhani",
+      "rating": "5 stars",
+      "date": "2 weeks ago",
+      "review_text": "",
+      "photos": []
+    },
+    {
+      "reviewer": "sjoerd oostdijck",
+      "rating": "5 stars",
+      "date": "3 weeks ago",
+      "review_text": "",
+      "photos": []
+    },
+    {
+      "reviewer": "Behzad Bahrami",
+      "rating": "5 stars",
+      "date": "3 weeks ago",
+      "review_text": "",
+      "photos": []
+    },
+    {
+      "reviewer": "Manuel Maldonado",
+      "rating": "5 stars",
+      "date": "a month ago",
+      "review_text": "A very pleasant place with excellent coffee, and the food is delicious too. The staff are very friendly. Highly recommended.",
+      "photos": []
+    },
+    {
+      "reviewer": "Patrick Schneider",
+      "rating": "5 stars",
+      "date": "a month ago",
+      "review_text": "A fantastic café with amazing food. The coffee is delicious, the cake absolutely divine. The service is top-notch and incredibly friendly! Highly recommended if you're in Edinburgh!",
+      "photos": []
+    },
+    {
+      "reviewer": "Achim",
+      "rating": "4 stars",
+      "date": "a month ago",
+      "review_text": "",
+      "photos": []
+    },
+    {
+      "reviewer": "miroslava yuliyanova",
+      "rating": "5 stars",
+      "date": "Edited a month ago",
+      "review_text": "",
+      "photos": []
+    },
+    {
+      "reviewer": "Sonia Le Tadic",
+      "rating": "5 stars",
+      "date": "2 months ago",
+      "review_text": "",
+      "photos": []
+    },
+    {
+      "reviewer": "Sebahat Sarigul",
+      "rating": "5 stars",
+      "date": "2 months ago",
+      "review_text": "",
+      "photos": []
+    }
+  ]
+}

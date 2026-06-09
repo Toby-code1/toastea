@@ -1,0 +1,14 @@
+Upload the CONTENTS of this folder to GitHub.
+
+Your GitHub repo should show this at the top level:
+
+index.html
+styles.css
+script.js
+README.md
+assets/
+
+Do not upload a parent folder only. The assets folder must stay beside index.html.
+
+Then enable GitHub Pages:
+Settings → Pages → Deploy from branch → main → /root → Save.
