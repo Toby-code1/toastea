@@ -94,3 +94,22 @@ document.querySelectorAll('[data-float]').forEach(card => {
     card.style.transform = `translate(${x}px, ${y}px)`;
   });
 });
+
+// ── Mobile nav toggle ─────────────────────────────────────
+const navToggle = document.querySelector('.nav-toggle');
+const navMenu   = document.querySelector('.nav nav');
+if (navToggle && navMenu) {
+  navToggle.addEventListener('click', () => {
+    const open = navToggle.getAttribute('aria-expanded') === 'true';
+    navToggle.setAttribute('aria-expanded', String(!open));
+    navToggle.classList.toggle('is-open');
+    navMenu.classList.toggle('is-open');
+  });
+  navMenu.querySelectorAll('a').forEach(a => {
+    a.addEventListener('click', () => {
+      navToggle.setAttribute('aria-expanded', 'false');
+      navToggle.classList.remove('is-open');
+      navMenu.classList.remove('is-open');
+    });
+  });
+}
