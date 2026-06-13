@@ -369,6 +369,9 @@ footer p{font-size:13px;margin:0}
   .review-card{flex:0 0 272px}
   .reviews-track-wrap{margin:0 -16px;padding:0 16px}
 
+  /* Hide decorative bleed elements that cause horizontal overflow */
+  .hero-bg,.drinks-bg{display:none}
+
   /* Misc */
   .edge-text{display:none}
   footer{display:block}
